@@ -1,0 +1,13 @@
+body {
+	background: url("http://www.spacewallpapershd.com/wp-content/uploads/2015/03/earth_from_space_wallpapers_hd_for_free_space_wallpapers_hd.jpg") repeat;
+}
+.container {
+	color: white;
+	text-align: center;
+}
+.button {
+	background: #777777;
+	width: 24%;
+	margin: 0.5%;
+	float: left;
+}
